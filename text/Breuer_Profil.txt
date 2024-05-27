@@ -1,0 +1,139 @@
+Profil
+
+Dipl. Ing. 
+Karl Breuer
+geboren am 01.08.1988 in Siegburg
+
+Wegscheiderstr. 5 
+06110 Halle
++49 160 2057504
+mail@karlbreuer.com
+
+Engagierter Freelance-Softwareentwickler und Diplom-Ingenieur mit exzellentem 
+Fachwissen sowie herausragenden Entwicklungs- und Programmierfähigkeiten, der zudem 
+durch seine offene und kommunikative Art überzeugt.
+
+Software (Fullstack):
+
+Go / Golang, Python, Django, Javascript, Typescript, React, Bootstrap, Tailwind, 
+CSS, Dexie, SQL, PostgreSQL, NeuralNetworks, Linux, Git, Gitlab, Github
+
+Ingenieurwesen:
+
+Verfahrenstechnik, Turbinen, Thermodynamik, Pumpen, Projektmanagement, 
+Lebensmitteltechnologie, Hydraulik, Erneuerbare Energien, Energiesektor
+
+Sonstiges
+
+Projektkalkulation, Präsentation, Mentoring
+
+Patent
+WÄRMEÜBERTRAGER MIT PHASENSPEICHER (...)
+(WO 2020/151850) 
+Energiespeicher z.B. für Windkraft.
+
+Sprachen
+Deutsch: Muttersprachler, Englisch: Fließend
+
+Prokekte als Freiberufler
+
+Seit 12/2023
+Projekt im Eisenbahnumfeld. 
+CRUD WebApp
+Javascript, jQuery, Django, Docker, MariaDB, Gitlab
+
+Seit 12/2023
+Virus-Abo (Cybersecurity)
+WebDashboard, Command & Control server für Pseudoschadsoftware
+Typescript, React (Vite), Django, MariaDB, Gitlab
+
+Portfolioprojekte:
+
+Jobfinder4.de 
+Jobsuchmaschine (webscraper)
+Typescript, React, Next, Go, PostgreSQL
+
+Pumtool
+Sales-Tool zur Präsentation eines komplexen Produktes (Kreiselpumpen).
+Typescript, React
+
+PolyCurveFit
+Data-Fitting- tool, das Parameter und Funktion automatisch optimiert.
+Python, SciPy
+
+NWDEV.de
+Webapp zum Einkaufslisten teilen, online - offline synchronisation.
+ Javascript, React, Django.
+
+Berufserfahrung als Ingenieur
+
+11/2018 - 04/2022 KSB SE & Co. KGaA in Halle (Saale)
+Projekt Manager
+Wassertransport- und Abwasserpumpen
+
+•Technische Beratung von nationalen und internationalen Kunden (KSB intern/extern)
+•Klärung technischer und kommerzieller Aufgabenstellungen und die Erarbeitung von 
+  kundenorientierten Lösungen. 
+•Technische Auslegung, Angebotserstellung und Präsentation von Produkten und 
+  Anwendungen.
+•Unterstützung bei Kundenbesuchen im Werk (z.B. Werksführungen).
+•Optimierung der Prozesse und Abläufe in der Zusammenarbeit mit KSB 
+  Landesvertriebsgesellschaften.
+•Key Account des Abteilungswikis in Confluence
+•Mitarbeit im Software-Test-Team mit Jira.
+•Prozessoptimierung (Visual Basic + SAP)
+•Einarbeitung zwei neuer Kollegen als Mentor.
+
+08/2018 – 11/2018 Brunel GmbH in Leipzig,
+Projekt Manager
+Projekteinsatz bei der KSB SE in Halle (Saale)
+
+   
+  
+09/2017 – 06/2018 Brunel GmbH,
+Mechanical Component Engineer
+Projekteinsatz bei der Siemens AG in Görlitz
+Steuer- und Schmierölanlagen, Rückschlagklappen, Leck- und Sperrdampfsysteme,
+Entwässerungssysteme.
+
+•Auslegung und Spezifikation
+•Prüfen und vergleichen von Angeboten
+•Technische Beratung
+•Claim Management
+•Standardisierung
+•Workflowverbesserung
+
+02/2016 – 05/2017
+RVT Process Equipment GmbH in Steinwiesen, 
+Verfahrenstechniker im Anlagenbau 
+Ingenieur Rauchgasreinigungsanlagen (Planung und Herstellung von schlüsselfertigen 
+Anlagen):
+
+•Auftragsabwicklung
+•Kundenbetreuung
+•Detail engineering (Auslegung der Anlagen)
+•Prozessoptimierung
+•Koordination von Fremdfirmen auf der Baustelle(Montage & Rohrleitungsbau)
+•Planung von Rauchgasrohrleitungen für eine Rauchgasreinigung mit einem Statiker
+•Optimierung einer großtechnischen Ammoniak-Dampfstrippanlage 
+
+08/2015 – 02/2016
+RVT Process Equipment GmbH in Steinwiesen, 
+Verfahrenstechniker Kolonneneinbauten / hydraulische Auslegung
+Spezialgebiet Stoffaustauschequipment:
+
+•Hydraulische Auslegung Stoffaustauschböden
+•Kunden und Abnahmebetreuung
+•Entwicklung neuer Füllkörper für Kolonnen.
+•Optimierung von Stoffaustauschkolonnen 
+
+Ausbildung
+10/2008 - 02/2015
+
+TU Berlin
+Lebensmitteltechnologie,
+Vertiefung: Verfahrenstechnik
+
+Halle (Saale), 10.05.2024
+
+
